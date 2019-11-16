@@ -1,5 +1,6 @@
 # Finds median of two sorted arrays of unequal size
 # Time complexity O(log(min(m,n))) m,n => input array size
+# https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/2579/6-lines-O(log(min(mn)))-Ruby
 # @param {Integer[]} nums1
 # @param {Integer[]} nums2
 # @return {Float}
