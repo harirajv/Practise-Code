@@ -1,2 +1,2 @@
-# Practise-Code
+# practise-code
 Some interesting questions
